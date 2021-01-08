@@ -2,13 +2,13 @@
 
 
 <br/>
-**Welcome to my GitHub profile 🥰
+###Welcome to my GitHub profile 🥰
 <br/>
 -👩‍💻 I’m Ajay T, a Developer, who is going towards web development
 <br/>
 -✨ I’m a Self-learner, coding enthusiastic, passionate to learn new things 
 <br/>
--🌱 I’m currently learning Web Deveolpment **
+-🌱 I’m currently learning Web Deveolpment
 <br/>
 
 **Languages and Tools:** 
