@@ -1,5 +1,5 @@
 ### Hi there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ajay T !
-<a href="https://www.linkedin.com/in/ajay-t-51b7491a5><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile"/></a> &nbsp;
+
 
 <br/>
 #### Welcome to my GitHub profile 🥰
