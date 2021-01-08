@@ -1,18 +1,30 @@
-Hi there!https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966! I'm Ajay T !
-Welcome to my GitHub profile
--woman_technologist I’m Ajay, Developer, who is going towards web development
--sparkles I’m a Self-learner, coding enthusiastic, passionate to learn new things
--seedling I’m currently learning Web Development
+### Hi there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Sushmitha S !
+<a href="https://www.linkedin.com/in/ajay-t-51b7491a5><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile"/></a> &nbsp;
 
-Languages and Tools:
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png
+<br/>
+#### Welcome to my GitHub profile 🥰
+-👩‍💻 I’m Ajay T, a Developer, who is going towards web development
+<br/>
+-✨ I’m a Self-learner, coding enthusiastic, passionate to learn new things 
+<br/>
+-🌱 I’m currently learning Web Deveolpment 
+<br/>
 
-Git Status:
-![ajaythekkiniyil's github stats](https://github-readme-stats.vercel.app/api?username=ajaythekkiniyil&show_icons=true&theme=radical)
+**Languages and Tools:**  
+<code>https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png</code>
+<code>https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png</code>
+<code>https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png</code>
+<code>https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png</code>
+<code>https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png</code>
+<code>https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png</code>
+<code>https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png</code>
+<code>https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png</code>
+
+<br/>
+
+<details>
+     <br/>
+<summary>:zap: GitHub Stats</summary>
+<center><img align="left" alt="Ajay's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ajaythekkiniyil&show_icons=true&theme=radical" /></center>
+ <br/>
+</details>
