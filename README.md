@@ -2,7 +2,7 @@
 
 
 <br/>
-###Welcome to my GitHub profile 🥰
+Welcome to my GitHub profile 🥰
 <br/>
 -👩‍💻 I’m Ajay T, a Developer, who is going towards web development
 <br/>
