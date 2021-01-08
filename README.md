@@ -4,7 +4,7 @@
 <br/>
 Welcome to my GitHub profile 🥰
 <br/>
--👩‍💻 I’m Ajay T, a Developer, who is going towards web development
+-👩‍💻 I’m Ajay T, a developer, who is going towards web development
 <br/>
 -✨ I’m a Self-learner, coding enthusiastic, passionate to learn new things 
 <br/>
