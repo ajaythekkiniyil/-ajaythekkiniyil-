@@ -12,7 +12,7 @@ Welcome to my GitHub profile 🥰
 <br/>
 
 **Languages and Tools:** 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
@@ -21,13 +21,3 @@ Welcome to my GitHub profile 🥰
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/raw/master/icons/react/react-original-wordmark.svg"></code>
-<br/>
-<img src="https://komarev.com/ghpvc/?username=ajaythekkiniyil" alt="hedythedev"/> 
-<a href="https://github.com/sushmithas99"><img src="https://img.shields.io/github/stars/ajaythekkiniyil?color=blue&style=flat-box&logo=github" alt="Github stars"/></a>
-<br/>
-<details>
-     <br/>
-<summary>:zap: GitHub Stats</summary>
-<center><img align="left" alt="Ajay's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ajaythekkiniyil&show_icons=true&theme=radical" /></center>
- <br/>
-</details>
